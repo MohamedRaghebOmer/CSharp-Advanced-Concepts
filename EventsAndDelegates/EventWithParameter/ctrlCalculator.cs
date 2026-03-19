@@ -7,6 +7,12 @@ namespace EventWithParameter
     {
         public event Action<decimal> OnCalculationComplete;
 
+        protected virtual void CalculationComplete(decimal value)
+        {
+            Action<decimal> handler = OnCalculationComplete;
+            handler?.Invoke(value);
+        }
+
         public ctrlCalculator()
         {
             InitializeComponent();
@@ -20,7 +26,7 @@ namespace EventWithParameter
                 decimal result = num1 + num2;
 
                 label1.Text = result.ToString();
-                OnCalculationComplete?.Invoke(result);
+                CalculationComplete(result);
             }
         }
     }

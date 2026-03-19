@@ -1,4 +1,4 @@
-﻿namespace EventWithParameter
+﻿namespace EventWithParametersUsingArguments
 {
     partial class Form1
     {
@@ -28,24 +28,25 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.ctrlCalculator1 = new EventWithParameter.ctrlCalculator();
+            this.ctrlCalculator1 = new EventWithParametersUsingArguments.ctrlCalculator();
             this.SuspendLayout();
             // 
             // ctrlCalculator1
             // 
-            this.ctrlCalculator1.BackColor = System.Drawing.SystemColors.InactiveCaption;
+            this.ctrlCalculator1.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.ctrlCalculator1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ctrlCalculator1.Location = new System.Drawing.Point(183, 65);
+            this.ctrlCalculator1.Location = new System.Drawing.Point(319, 153);
             this.ctrlCalculator1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.ctrlCalculator1.Name = "ctrlCalculator1";
-            this.ctrlCalculator1.Size = new System.Drawing.Size(269, 166);
+            this.ctrlCalculator1.Size = new System.Drawing.Size(293, 160);
             this.ctrlCalculator1.TabIndex = 0;
+            this.ctrlCalculator1.OnCalculationComplete += new System.EventHandler<EventWithParametersUsingArguments.ctrlCalculator.ctrlCalculatorEventArgs>(this.ctrlCalculator1_OnCalculationComplete);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(853, 413);
+            this.ClientSize = new System.Drawing.Size(973, 586);
             this.Controls.Add(this.ctrlCalculator1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);

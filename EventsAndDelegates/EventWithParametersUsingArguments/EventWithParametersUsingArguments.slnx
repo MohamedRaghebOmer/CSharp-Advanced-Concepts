@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../EventWithParameter/EventWithParameter.csproj" Id="85874de0-d872-4831-932a-5c6153bfdc4d" />
+  <Project Path="EventWithParametersUsingArguments.csproj" Id="4bd958c6-4965-4b3c-96b3-6171282e602b" />
+</Solution>

@@ -33,6 +33,7 @@
             this.btnCalc = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.lblResult = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // textBox1
@@ -44,14 +45,14 @@
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(3, 39);
+            this.textBox2.Location = new System.Drawing.Point(3, 64);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(169, 30);
             this.textBox2.TabIndex = 1;
             // 
             // btnCalc
             // 
-            this.btnCalc.Location = new System.Drawing.Point(24, 75);
+            this.btnCalc.Location = new System.Drawing.Point(15, 111);
             this.btnCalc.Name = "btnCalc";
             this.btnCalc.Size = new System.Drawing.Size(107, 42);
             this.btnCalc.TabIndex = 2;
@@ -62,7 +63,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(178, 22);
+            this.label1.Location = new System.Drawing.Point(184, 36);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(24, 25);
             this.label1.TabIndex = 3;
@@ -76,11 +77,21 @@
             this.lblResult.Size = new System.Drawing.Size(0, 25);
             this.lblResult.TabIndex = 4;
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(68, 36);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(24, 25);
+            this.label2.TabIndex = 5;
+            this.label2.Text = "+";
+            // 
             // ctrlCalculator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.InactiveCaption;
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.lblResult);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnCalc);
@@ -89,7 +100,7 @@
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "ctrlCalculator";
-            this.Size = new System.Drawing.Size(279, 123);
+            this.Size = new System.Drawing.Size(269, 166);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -102,5 +113,6 @@
         private System.Windows.Forms.Button btnCalc;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label lblResult;
+        private System.Windows.Forms.Label label2;
     }
 }
