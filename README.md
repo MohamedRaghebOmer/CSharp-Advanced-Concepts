@@ -1,4 +1,4 @@
-## About
+## 📌 About
 
 This repository reflects my progression as a C# developer after completing extensive advanced practice. It contains my applied examples, exercises, and mini-projects where I implemented advanced programming techniques and design patterns.
 
