@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Advanced-Concepts\EventsAndDelegates\SendDataBackToFormUsingDelegate\bin\Debug\SendDataBackToFormUsingDelegate.exe.config
+D:\GitHub\CSharp-Advanced-Concepts\EventsAndDelegates\SendDataBackToFormUsingDelegate\bin\Debug\SendDataBackToFormUsingDelegate.exe
+D:\GitHub\CSharp-Advanced-Concepts\EventsAndDelegates\SendDataBackToFormUsingDelegate\bin\Debug\SendDataBackToFormUsingDelegate.pdb
+D:\GitHub\CSharp-Advanced-Concepts\EventsAndDelegates\SendDataBackToFormUsingDelegate\obj\Debug\SendDataBackToFormUsingDelegate.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Advanced-Concepts\EventsAndDelegates\SendDataBackToFormUsingDelegate\obj\Debug\SendDataBackToFormUsingDelegate.Form1.resources
+D:\GitHub\CSharp-Advanced-Concepts\EventsAndDelegates\SendDataBackToFormUsingDelegate\obj\Debug\SendDataBackToFormUsingDelegate.Form2.resources
+D:\GitHub\CSharp-Advanced-Concepts\EventsAndDelegates\SendDataBackToFormUsingDelegate\obj\Debug\SendDataBackToFormUsingDelegate.Properties.Resources.resources
+D:\GitHub\CSharp-Advanced-Concepts\EventsAndDelegates\SendDataBackToFormUsingDelegate\obj\Debug\SendDataBackToFormUsingDelegate.csproj.GenerateResource.cache
+D:\GitHub\CSharp-Advanced-Concepts\EventsAndDelegates\SendDataBackToFormUsingDelegate\obj\Debug\SendDataBackToFormUsingDelegate.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Advanced-Concepts\EventsAndDelegates\SendDataBackToFormUsingDelegate\obj\Debug\SendDataBackToFormUsingDelegate.exe
+D:\GitHub\CSharp-Advanced-Concepts\EventsAndDelegates\SendDataBackToFormUsingDelegate\obj\Debug\SendDataBackToFormUsingDelegate.pdb
