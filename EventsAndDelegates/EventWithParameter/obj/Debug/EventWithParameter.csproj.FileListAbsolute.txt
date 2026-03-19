@@ -1,0 +1,11 @@
+D:\GitHub\CSharp-Advanced-Concepts\EventsAndDelegates\EventWithParameter\bin\Debug\EventWithParameter.exe.config
+D:\GitHub\CSharp-Advanced-Concepts\EventsAndDelegates\EventWithParameter\bin\Debug\EventWithParameter.exe
+D:\GitHub\CSharp-Advanced-Concepts\EventsAndDelegates\EventWithParameter\bin\Debug\EventWithParameter.pdb
+D:\GitHub\CSharp-Advanced-Concepts\EventsAndDelegates\EventWithParameter\obj\Debug\EventWithParameter.csproj.AssemblyReference.cache
+D:\GitHub\CSharp-Advanced-Concepts\EventsAndDelegates\EventWithParameter\obj\Debug\EventWithParameter.ctrlCalculator.resources
+D:\GitHub\CSharp-Advanced-Concepts\EventsAndDelegates\EventWithParameter\obj\Debug\EventWithParameter.Properties.Resources.resources
+D:\GitHub\CSharp-Advanced-Concepts\EventsAndDelegates\EventWithParameter\obj\Debug\EventWithParameter.csproj.GenerateResource.cache
+D:\GitHub\CSharp-Advanced-Concepts\EventsAndDelegates\EventWithParameter\obj\Debug\EventWithParameter.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharp-Advanced-Concepts\EventsAndDelegates\EventWithParameter\obj\Debug\EventWithParameter.exe
+D:\GitHub\CSharp-Advanced-Concepts\EventsAndDelegates\EventWithParameter\obj\Debug\EventWithParameter.pdb
+D:\GitHub\CSharp-Advanced-Concepts\EventsAndDelegates\EventWithParameter\obj\Debug\EventWithParameter.Form1.resources
