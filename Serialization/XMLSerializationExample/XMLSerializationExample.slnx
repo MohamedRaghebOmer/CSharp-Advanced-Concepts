@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="../BinarySerializationExample/BinarySerializationExample.csproj" />
   <Project Path="../JsonSerializationExample/JsonSerializationExample.csproj" />
   <Project Path="XMLSerializationExample.csproj" />
 </Solution>
