@@ -3,5 +3,6 @@
   <Project Path="../FuncDelegate/FuncDelegate.csproj" />
   <Project Path="../LoggerExample/LoggerExample.csproj" />
   <Project Path="../NewsPublisherSubscriberExample/NewsPublisherSubscriberExample.csproj" />
+  <Project Path="../PredicateDelegate/PredicateDelegate.csproj" />
   <Project Path="TemperatureChangeEventExample.csproj" />
 </Solution>
