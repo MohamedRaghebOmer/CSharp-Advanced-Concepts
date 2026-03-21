@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="../ActionDelegate/ActionDelegate.csproj" />
   <Project Path="../FuncDelegate/FuncDelegate.csproj" />
+  <Project Path="../LambdaExpression/LambdaExpression.csproj" />
   <Project Path="../LoggerExample/LoggerExample.csproj" />
   <Project Path="../NewsPublisherSubscriberExample/NewsPublisherSubscriberExample.csproj" />
   <Project Path="../PredicateDelegate/PredicateDelegate.csproj" />
