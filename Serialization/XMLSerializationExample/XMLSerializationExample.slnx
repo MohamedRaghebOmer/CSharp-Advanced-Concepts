@@ -1,5 +1,7 @@
 <Solution>
+  <Project Path="../../ReflectionAndAttributes/ConditionalAttributeExamples/ConditionalAttributeExamples.csproj" />
   <Project Path="../BinarySerializationExample/BinarySerializationExample.csproj" />
   <Project Path="../JsonSerializationExample/JsonSerializationExample.csproj" />
+  <Project Path="../SerializationAttributes/SerializationAttributes.csproj" />
   <Project Path="XMLSerializationExample.csproj" />
 </Solution>
