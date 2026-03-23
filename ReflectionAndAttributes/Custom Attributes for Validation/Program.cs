@@ -40,6 +40,7 @@ public class ValidationExample
         else
         {
             Console.WriteLine("Validation failed.");
+            Console.Read();
         }
     }
 

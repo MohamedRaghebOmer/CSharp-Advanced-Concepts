@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../ReadingFromRegistry/ReadingFromRegistry.csproj" Id="5c0b19c7-9bac-4a20-a444-582a107771fc" />
+  <Project Path="../WindowsRegistryReadWriteLocalMachine/WindowsRegistryReadWriteLocalMachine.csproj" Id="dadaafb6-9897-4231-adfd-4623e436ce7a" />
+  <Project Path="WritingToRegistry.csproj" Id="6669f916-8ca8-477d-bbb8-ee8c4800fbdd" />
+</Solution>
