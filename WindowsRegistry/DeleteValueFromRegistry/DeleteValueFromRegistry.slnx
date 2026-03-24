@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="../ReadingFromRegistry/ReadingFromRegistry.csproj" />
+  <Project Path="../WritingToRegistry/WritingToRegistry.csproj" />
   <Project Path="DeleteValueFromRegistry.csproj" />
 </Solution>
