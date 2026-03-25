@@ -27,7 +27,7 @@ public class Person
     public string Name { get; set; }
 }
 
-public class ValidationExample
+static class ValidationExample
 {
     public static void Main()
     {
