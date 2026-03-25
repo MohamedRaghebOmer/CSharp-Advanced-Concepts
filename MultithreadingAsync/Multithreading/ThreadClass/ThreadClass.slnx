@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../MultithreadingSynchronization/MultithreadingSynchronization.csproj" Id="73c36fff-0d11-42af-b668-0445ce0d35cd" />
+  <Project Path="../ParameterizedThread/ParameterizedThread.csproj" Id="82b06289-8cff-4e95-804b-fe3f90b63e13" />
+  <Project Path="../Practice_Download3WebPagesUsingMultiThreading/Practice_Download3WebPagesUsingMultiThreading.csproj" Id="7a680499-2f92-4570-9fe8-907104f53bc2" />
+  <Project Path="ThreadClass.csproj" Id="d2235131-f8b9-4092-8913-0e1208238252" />
+</Solution>
