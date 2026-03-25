@@ -36,7 +36,7 @@ public class Publisher
         RaiseNewNewsPublished(e);
     }
 
-    public void Publish(ArticleEventArgs e)
+    private void Publish(ArticleEventArgs e)
     {
         RaiseNewNewsPublished(e);
     }

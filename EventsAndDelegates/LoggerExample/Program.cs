@@ -5,9 +5,10 @@ using System.IO;
 public class Logger
 {
     public delegate void LogAction(string message);
-    private event LogAction _logAction;
+    private static event LogAction _logAction;
 
-    public Logger(LogAction logAction)
+    // Constructor
+    public Logger(LogAction logAction) 
     {
         this._logAction = logAction;
     }

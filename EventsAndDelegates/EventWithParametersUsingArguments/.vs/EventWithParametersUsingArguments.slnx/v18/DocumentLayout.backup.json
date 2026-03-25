@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\GitHub\\CSharp-Advanced-Concepts\\EventsAndDelegates\\EventWithParametersUsingArguments\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4BD958C6-4965-4B3C-96B3-6171282E602B}|EventWithParametersUsingArguments.csproj|d:\\github\\csharp-advanced-concepts\\eventsanddelegates\\eventwithparametersusingarguments\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4BD958C6-4965-4B3C-96B3-6171282E602B}|EventWithParametersUsingArguments.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BD958C6-4965-4B3C-96B3-6171282E602B}|EventWithParametersUsingArguments.csproj|D:\\GitHub\\CSharp-Advanced-Concepts\\EventsAndDelegates\\EventWithParametersUsingArguments\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BD958C6-4965-4B3C-96B3-6171282E602B}|EventWithParametersUsingArguments.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4BD958C6-4965-4B3C-96B3-6171282E602B}|EventWithParametersUsingArguments.csproj|D:\\GitHub\\CSharp-Advanced-Concepts\\EventsAndDelegates\\EventWithParametersUsingArguments\\ctrlcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BD958C6-4965-4B3C-96B3-6171282E602B}|EventWithParametersUsingArguments.csproj|solutionrelative:ctrlcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BD958C6-4965-4B3C-96B3-6171282E602B}|EventWithParametersUsingArguments.csproj|D:\\GitHub\\CSharp-Advanced-Concepts\\EventsAndDelegates\\EventWithParametersUsingArguments\\ctrlcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4BD958C6-4965-4B3C-96B3-6171282E602B}|EventWithParametersUsingArguments.csproj|solutionrelative:ctrlcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD958C6-4965-4B3C-96B3-6171282E602B}|EventWithParametersUsingArguments.csproj|D:\\GitHub\\CSharp-Advanced-Concepts\\EventsAndDelegates\\EventWithParametersUsingArguments\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD958C6-4965-4B3C-96B3-6171282E602B}|EventWithParametersUsingArguments.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD958C6-4965-4B3C-96B3-6171282E602B}|EventWithParametersUsingArguments.csproj|d:\\github\\csharp-advanced-concepts\\eventsanddelegates\\eventwithparametersusingarguments\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BD958C6-4965-4B3C-96B3-6171282E602B}|EventWithParametersUsingArguments.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\GitHub\\CSharp-Advanced-Concepts\\EventsAndDelegates\\EventWithParametersUsingArguments\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -43,13 +43,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\GitHub\\CSharp-Advanced-Concepts\\EventsAndDelegates\\EventWithParametersUsingArguments\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\GitHub\\CSharp-Advanced-Concepts\\EventsAndDelegates\\EventWithParametersUsingArguments\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T18:41:07.941Z",
               "IsPinned": true,
@@ -72,12 +72,8 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ctrlCalculator.cs [Design]",
               "DocumentMoniker": "D:\\GitHub\\CSharp-Advanced-Concepts\\EventsAndDelegates\\EventWithParametersUsingArguments\\ctrlCalculator.cs",
               "RelativeDocumentMoniker": "ctrlCalculator.cs",
@@ -89,13 +85,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ctrlCalculator.cs",
               "DocumentMoniker": "D:\\GitHub\\CSharp-Advanced-Concepts\\EventsAndDelegates\\EventWithParametersUsingArguments\\ctrlCalculator.cs",
               "RelativeDocumentMoniker": "ctrlCalculator.cs",
               "ToolTip": "D:\\GitHub\\CSharp-Advanced-Concepts\\EventsAndDelegates\\EventWithParametersUsingArguments\\ctrlCalculator.cs",
               "RelativeToolTip": "ctrlCalculator.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwDIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T16:08:02.206Z",
               "EditorCaption": ""

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.4.11620.152 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeTaskClass_DownloadWebPages", "PracticeTaskClass_DownloadWebPages.csproj", "{9F9306AE-44F5-432F-8571-E6B44127EE55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPagesDownloader_SemiProject", "..\WebPagesDownloader_SemiProject\WebPagesDownloader_SemiProject.csproj", "{7812150F-82EA-437F-852E-9395F75B4750}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task.Run", "..\Task.Run\Task.Run.csproj", "{0572F33E-5CEF-4E66-931E-4DB3220CD24C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskFactoryClass", "..\TaskFactoryClass\TaskFactoryClass.csproj", "{8A947A9A-DE19-4BB1-8A4D-CE5C726714F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For", "..\ParallelClass\For\For.csproj", "{60980775-8744-474F-8FEF-8E745CD517EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foreach", "..\Foreach\Foreach.csproj", "{D8FCB99E-EF9B-476C-BCAE-2C6E142DFF83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invoke", "..\Invoke\Invoke.csproj", "{E5F781D4-7A02-4DCA-BB4C-FDA002551D99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F9306AE-44F5-432F-8571-E6B44127EE55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9306AE-44F5-432F-8571-E6B44127EE55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9306AE-44F5-432F-8571-E6B44127EE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9306AE-44F5-432F-8571-E6B44127EE55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7812150F-82EA-437F-852E-9395F75B4750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7812150F-82EA-437F-852E-9395F75B4750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7812150F-82EA-437F-852E-9395F75B4750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7812150F-82EA-437F-852E-9395F75B4750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0572F33E-5CEF-4E66-931E-4DB3220CD24C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0572F33E-5CEF-4E66-931E-4DB3220CD24C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0572F33E-5CEF-4E66-931E-4DB3220CD24C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0572F33E-5CEF-4E66-931E-4DB3220CD24C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A947A9A-DE19-4BB1-8A4D-CE5C726714F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A947A9A-DE19-4BB1-8A4D-CE5C726714F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A947A9A-DE19-4BB1-8A4D-CE5C726714F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A947A9A-DE19-4BB1-8A4D-CE5C726714F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60980775-8744-474F-8FEF-8E745CD517EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60980775-8744-474F-8FEF-8E745CD517EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60980775-8744-474F-8FEF-8E745CD517EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60980775-8744-474F-8FEF-8E745CD517EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8FCB99E-EF9B-476C-BCAE-2C6E142DFF83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8FCB99E-EF9B-476C-BCAE-2C6E142DFF83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8FCB99E-EF9B-476C-BCAE-2C6E142DFF83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8FCB99E-EF9B-476C-BCAE-2C6E142DFF83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5F781D4-7A02-4DCA-BB4C-FDA002551D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F781D4-7A02-4DCA-BB4C-FDA002551D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F781D4-7A02-4DCA-BB4C-FDA002551D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F781D4-7A02-4DCA-BB4C-FDA002551D99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AFDA93C-38A5-405A-B1B9-398F5B245127}
+	EndGlobalSection
+EndGlobal

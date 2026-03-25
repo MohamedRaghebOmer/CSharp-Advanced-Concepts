@@ -4,7 +4,7 @@ namespace FuncDelegate
 {
     internal static class Program
     {
-        static Func <int, int> SquareDelegate;
+        static event Func <int, int> SquareDelegate;
 
         static int Square(int x)
         {
