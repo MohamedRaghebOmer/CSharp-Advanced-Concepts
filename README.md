@@ -131,6 +131,8 @@ Then:
 * Run, modify, and experiment with the code
 * Compare different implementations to deepen your understanding
 
+---
+
 ### 🎓 Outcome
 
 After completing all projects in this repository, I have reached a level where I can:
